@@ -1,0 +1,107 @@
+1622556250a:1:{s:26:"sections/why-choose-us.htm";a:7:{s:8:"fileName";s:26:"sections/why-choose-us.htm";s:7:"content";s:2312:"description = "Why Choose Us Section"
+
+[viewBag]
+==
+<section class="rehomes-choose-us-area section-padding-100-60">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-heading text-center wow fadeInUp" data-wow-delay="200ms">
+                    <h2><span>Why</span> Choose Us?</h2>
+                    <p>We have over 8 years of experience and knowledge on how to sell more.</p>
+                </div>
+            </div>
+
+            <!-- Single choose us content -->
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="single-choose-us-content wow fadeInUp" data-wow-delay="200ms">
+                    <!-- Choose us Icon -->
+                    <div class="choose-us-icon">
+                        <i class="icon_search"></i>
+                    </div>
+                    <h5>Find Your Home</h5>
+                    <p>Quis ipsum suspendisse ultrices, risus commodo viverra maecenas accumsan lacus vel facilisis.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Single choose us content -->
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="single-choose-us-content wow fadeInUp" data-wow-delay="200ms">
+                    <!-- Choose us Icon -->
+                    <div class="choose-us-icon">
+                        <i class="icon_building"></i>
+                    </div>
+                    <h5>Transportation support</h5>
+                    <p>Quis ipsum suspendisse ultrices, risus commodo viverra maecenas accumsan lacus vel facilisis.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Single choose us content -->
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="single-choose-us-content wow fadeInUp" data-wow-delay="200ms">
+                    <!-- Choose us Icon -->
+                    <div class="choose-us-icon">
+                        <i class="icon_creditcard"></i>
+                    </div>
+                    <h5>Save Your Money</h5>
+                    <p>Quis ipsum suspendisse ultrices, risus commodo viverra maecenas accumsan lacus vel facilisis.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>";s:5:"mtime";i:1615817327;s:6:"markup";s:2260:"<section class="rehomes-choose-us-area section-padding-100-60">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="section-heading text-center wow fadeInUp" data-wow-delay="200ms">
+                    <h2><span>Why</span> Choose Us?</h2>
+                    <p>We have over 8 years of experience and knowledge on how to sell more.</p>
+                </div>
+            </div>
+
+            <!-- Single choose us content -->
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="single-choose-us-content wow fadeInUp" data-wow-delay="200ms">
+                    <!-- Choose us Icon -->
+                    <div class="choose-us-icon">
+                        <i class="icon_search"></i>
+                    </div>
+                    <h5>Find Your Home</h5>
+                    <p>Quis ipsum suspendisse ultrices, risus commodo viverra maecenas accumsan lacus vel facilisis.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Single choose us content -->
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="single-choose-us-content wow fadeInUp" data-wow-delay="200ms">
+                    <!-- Choose us Icon -->
+                    <div class="choose-us-icon">
+                        <i class="icon_building"></i>
+                    </div>
+                    <h5>Transportation support</h5>
+                    <p>Quis ipsum suspendisse ultrices, risus commodo viverra maecenas accumsan lacus vel facilisis.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Single choose us content -->
+            <div class="col-12 col-md-6 col-lg-4">
+                <div class="single-choose-us-content wow fadeInUp" data-wow-delay="200ms">
+                    <!-- Choose us Icon -->
+                    <div class="choose-us-icon">
+                        <i class="icon_creditcard"></i>
+                    </div>
+                    <h5>Save Your Money</h5>
+                    <p>Quis ipsum suspendisse ultrices, risus commodo viverra maecenas accumsan lacus vel facilisis.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>";s:4:"code";N;s:11:"description";s:21:"Why Choose Us Section";s:7:"viewBag";a:0:{}}}

@@ -1,0 +1,53 @@
+1622556250a:1:{s:25:"sections/partner-logo.htm";a:7:{s:8:"fileName";s:25:"sections/partner-logo.htm";s:7:"content";s:1482:"description = "Partner Area Section"
+
+[viewBag]
+==
+<div class="partner-area wow fadeInUp" data-wow-delay="200ms">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="partner-logo-slide owl-carousel">
+                    <!-- Single Partner Logo -->
+                    <a href="#" class="partner-logo wow fadeInUp" data-wow-delay="100ms"><img src="{{ 'assets/img/core-img/1.png'|theme }}"
+                            alt=""></a>
+                    <!-- Single Partner Logo -->
+                    <a href="#" class="partner-logo wow fadeInUp" data-wow-delay="300ms"><img src="{{ 'assets/img/core-img/2.png'|theme }}"
+                            alt=""></a>
+                    <!-- Single Partner Logo -->
+                    <a href="#" class="partner-logo wow fadeInUp" data-wow-delay="500ms"><img src="{{ 'assets/img/core-img/3.png'|theme }}"
+                            alt=""></a>
+                    <!-- Single Partner Logo -->
+                    <a href="#" class="partner-logo wow fadeInUp" data-wow-delay="700ms"><img src="{{ 'assets/img/core-img/4.png'|theme }}"
+                            alt=""></a>
+                    <!-- Single Partner Logo -->
+                    <a href="#" class="partner-logo wow fadeInUp" data-wow-delay="900ms"><img src="{{ 'assets/img/core-img/5.png'|theme }}"
+                            alt=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1615817327;s:6:"markup";s:1431:"<div class="partner-area wow fadeInUp" data-wow-delay="200ms">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="partner-logo-slide owl-carousel">
+                    <!-- Single Partner Logo -->
+                    <a href="#" class="partner-logo wow fadeInUp" data-wow-delay="100ms"><img src="{{ 'assets/img/core-img/1.png'|theme }}"
+                            alt=""></a>
+                    <!-- Single Partner Logo -->
+                    <a href="#" class="partner-logo wow fadeInUp" data-wow-delay="300ms"><img src="{{ 'assets/img/core-img/2.png'|theme }}"
+                            alt=""></a>
+                    <!-- Single Partner Logo -->
+                    <a href="#" class="partner-logo wow fadeInUp" data-wow-delay="500ms"><img src="{{ 'assets/img/core-img/3.png'|theme }}"
+                            alt=""></a>
+                    <!-- Single Partner Logo -->
+                    <a href="#" class="partner-logo wow fadeInUp" data-wow-delay="700ms"><img src="{{ 'assets/img/core-img/4.png'|theme }}"
+                            alt=""></a>
+                    <!-- Single Partner Logo -->
+                    <a href="#" class="partner-logo wow fadeInUp" data-wow-delay="900ms"><img src="{{ 'assets/img/core-img/5.png'|theme }}"
+                            alt=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:11:"description";s:20:"Partner Area Section";s:7:"viewBag";a:0:{}}}

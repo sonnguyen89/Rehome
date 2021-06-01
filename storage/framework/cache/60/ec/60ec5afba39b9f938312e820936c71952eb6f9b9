@@ -1,0 +1,66 @@
+1622556828a:1:{s:8:"home.htm";a:9:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:1079:"title = "Home"
+url = "/"
+layout = "default"
+is_hidden = 0
+==
+<!-- **** Welcome Maps Area Start **** -->
+{% partial 'sections/welcome' %}
+<!-- **** Welcome Maps Area End **** -->
+
+<!-- **** Location Search Form Area **** -->
+{% partial 'sections/search' %}
+<!-- **** Location Search Form Area **** -->
+
+<!-- **** Property Latest Showcase Start **** -->
+{% partial 'sections/latest-showcase' %}
+<!-- **** Property Latest Showcase End **** -->
+
+<!-- **** Why Choose Us Area Start **** -->
+{% partial 'sections/why-choose-us' %}
+<!-- **** Why Choose Us Area End **** -->
+
+<!-- **** Categories By Property Area Start **** -->
+{% partial 'sections/category-showcase' %}
+<!-- **** Categories By Property Area End **** -->
+
+<!-- **** Call to Action Area Start **** -->
+{% partial 'sections/cta' %}
+<!-- **** Call to Action Area End **** -->
+
+<!-- **** Latest News - Blog area Start **** -->
+{% partial 'sections/latest-news' %}
+<!-- **** Latest News - Blog area End **** -->
+
+<!-- **** Partner Area Start **** -->
+{% partial 'sections/partner-logo' %}
+<!-- **** Partner Area End **** -->";s:5:"mtime";i:1615817327;s:6:"markup";s:1018:"<!-- **** Welcome Maps Area Start **** -->
+{% partial 'sections/welcome' %}
+<!-- **** Welcome Maps Area End **** -->
+
+<!-- **** Location Search Form Area **** -->
+{% partial 'sections/search' %}
+<!-- **** Location Search Form Area **** -->
+
+<!-- **** Property Latest Showcase Start **** -->
+{% partial 'sections/latest-showcase' %}
+<!-- **** Property Latest Showcase End **** -->
+
+<!-- **** Why Choose Us Area Start **** -->
+{% partial 'sections/why-choose-us' %}
+<!-- **** Why Choose Us Area End **** -->
+
+<!-- **** Categories By Property Area Start **** -->
+{% partial 'sections/category-showcase' %}
+<!-- **** Categories By Property Area End **** -->
+
+<!-- **** Call to Action Area Start **** -->
+{% partial 'sections/cta' %}
+<!-- **** Call to Action Area End **** -->
+
+<!-- **** Latest News - Blog area Start **** -->
+{% partial 'sections/latest-news' %}
+<!-- **** Latest News - Blog area End **** -->
+
+<!-- **** Partner Area Start **** -->
+{% partial 'sections/partner-logo' %}
+<!-- **** Partner Area End **** -->";s:4:"code";N;s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}
